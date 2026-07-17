@@ -1,3 +1,3 @@
 # FaithRAG
-Official repository of FaithRAG
+Official repository of FaithRAG  
 Code coming soon
